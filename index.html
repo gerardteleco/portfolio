@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Portfolio profesional IT de un coordinador del departamento de redes.">
+    <title>Portfolio IT | Coordinador de Redes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header" id="top">
+      <a class="brand" href="#inicio" aria-label="Ir al inicio">
+        <span class="brand-mark" data-content="iniciales">NR</span>
+        <span>
+          <strong data-content="nombre">Nombre Apellido</strong>
+          <small data-content="cargoCorto">Coordinador de Redes</small>
+        </span>
+      </a>
+
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Abrir navegación">
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="site-nav" id="site-nav" aria-label="Navegación principal">
+        <a href="#inicio">Inicio</a>
+        <a href="#sobre-mi">Sobre mí</a>
+        <a href="#experiencia">Experiencia</a>
+        <a href="#proyectos">Proyectos</a>
+        <a href="#certificaciones">Certificaciones</a>
+        <a href="#formacion">Formación</a>
+        <a href="#cv">CV</a>
+        <a href="#contacto">Contacto</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero section" id="inicio">
+        <div class="hero-content">
+          <p class="eyebrow" data-content="heroEtiqueta">Portfolio IT · Redes · Operaciones</p>
+          <h1 data-content="heroTitulo">Coordinación de infraestructuras de red con foco en estabilidad, seguridad y mejora continua.</h1>
+          <p class="hero-copy" data-content="heroTexto">
+            Perfil técnico especializado en gestión de equipos, operación de redes corporativas,
+            resolución de incidencias críticas y despliegue de soluciones escalables para entornos empresariales.
+          </p>
+          <div class="social-row" data-list="social"></div>
+          <div class="hero-actions">
+            <a class="button primary" href="#proyectos">Ver proyectos</a>
+            <a class="button secondary" href="#contacto">Contactar</a>
+          </div>
+        </div>
+
+        <div class="hero-visual" aria-label="Representación visual de infraestructura de red">
+          <img data-content="heroImagen" src="assets/network-mark.svg" alt="">
+          <div class="status-panel">
+            <span data-content="indicadorEtiqueta">Estado operativo</span>
+            <strong data-content="indicadorValor">99.95%</strong>
+            <small data-content="indicadorTexto">Disponibilidad anual de servicios críticos</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="section split" id="sobre-mi">
+        <div>
+          <p class="eyebrow">Sobre mí</p>
+          <h2 data-content="sobreMiTitulo">Perfil orientado a operación, liderazgo técnico y servicio.</h2>
+        </div>
+        <div class="prose" data-list="sobreMiTextos"></div>
+      </section>
+
+      <section class="section skills-section" id="skills">
+        <div class="section-heading">
+          <p class="eyebrow">Skills</p>
+          <h2>Capacidades técnicas</h2>
+        </div>
+        <div class="skills-grid" data-list="skills"></div>
+      </section>
+
+      <section class="section metrics" aria-label="Indicadores profesionales" data-list="metricas"></section>
+
+      <section class="section" id="experiencia">
+        <div class="section-heading">
+          <p class="eyebrow">Experiencia</p>
+          <h2 data-content="experienciaTitulo">Responsabilidades principales</h2>
+        </div>
+
+        <div class="timeline" data-list="experiencia"></div>
+      </section>
+
+      <section class="section" id="proyectos">
+        <div class="section-heading">
+          <p class="eyebrow">Proyectos</p>
+          <h2 data-content="proyectosTitulo">Casos destacados</h2>
+          <p class="section-intro" data-content="proyectosIntro">
+            Selección de iniciativas técnicas, operativas y de mejora continua. Puedes añadir tantos proyectos como necesites desde content.json.
+          </p>
+        </div>
+
+        <div class="project-grid" data-list="proyectos"></div>
+      </section>
+
+      <section class="section compact-grid" id="certificaciones">
+        <div class="section-heading">
+          <p class="eyebrow">Certificaciones</p>
+          <h2 data-content="certificacionesTitulo">Conocimiento certificado</h2>
+        </div>
+        <div class="certification-list" data-list="certificaciones"></div>
+      </section>
+
+      <section class="section compact-grid" id="formacion">
+        <div class="section-heading">
+          <p class="eyebrow">Formación</p>
+          <h2 data-content="formacionTitulo">Base académica y técnica</h2>
+        </div>
+        <div class="education-list" data-list="formacion"></div>
+      </section>
+
+      <section class="section cv-band" id="cv">
+        <div>
+          <p class="eyebrow">CV</p>
+          <h2 data-content="cvTitulo">Currículum orientado a roles de coordinación IT, redes e infraestructura.</h2>
+        </div>
+        <a class="button primary" data-content="cvEnlace" href="#" aria-label="Descargar CV en PDF">Descargar CV</a>
+      </section>
+
+      <section class="section contact" id="contacto">
+        <div>
+          <p class="eyebrow">Contacto</p>
+          <h2 data-content="contactoTitulo">Hablemos de redes, continuidad operativa y mejora de infraestructura.</h2>
+        </div>
+        <div class="contact-panel" data-list="contacto"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span data-content="footer">© 2026 Nombre Apellido</span>
+      <a href="#top">Volver arriba</a>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

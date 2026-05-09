@@ -1,0 +1,175 @@
+{
+  "perfil": {
+    "nombre": "Nombre Apellido",
+    "iniciales": "NR",
+    "cargoCorto": "Coordinador de Redes",
+    "heroEtiqueta": "Portfolio IT · Redes · Operaciones",
+    "heroTitulo": "Coordinación de infraestructuras de red con foco en estabilidad, seguridad y mejora continua.",
+    "heroTexto": "Perfil técnico especializado en gestión de equipos, operación de redes corporativas, resolución de incidencias críticas y despliegue de soluciones escalables para entornos empresariales.",
+    "heroImagen": "assets/network-mark.svg",
+    "indicadorEtiqueta": "Estado operativo",
+    "indicadorValor": "99.95%",
+    "indicadorTexto": "Disponibilidad anual de servicios críticos"
+  },
+  "sobreMi": {
+    "titulo": "Perfil orientado a operación, liderazgo técnico y servicio.",
+    "textos": [
+      "Soy coordinador del departamento de redes, con experiencia en la supervisión de infraestructuras, planificación de cambios, soporte a equipos técnicos y comunicación con áreas de negocio.",
+      "Mi trabajo combina criterio técnico, gestión de prioridades y documentación clara para que los entornos de red sean predecibles, seguros y sostenibles."
+    ]
+  },
+  "metricas": [
+    {
+      "valor": "+10",
+      "texto": "Años en entornos IT"
+    },
+    {
+      "valor": "24/7",
+      "texto": "Operaciones críticas"
+    },
+    {
+      "valor": "+120",
+      "texto": "Sedes y enlaces coordinados"
+    },
+    {
+      "valor": "ITIL",
+      "texto": "Gestión de cambios e incidencias"
+    }
+  ],
+  "skills": [
+    {
+      "categoria": "Redes corporativas",
+      "items": ["Routing", "Switching", "VLAN", "Wi-Fi", "WAN"]
+    },
+    {
+      "categoria": "Seguridad",
+      "items": ["Firewalls", "VPN", "Segmentación", "Hardening", "Accesos"]
+    },
+    {
+      "categoria": "Operación IT",
+      "items": ["ITIL", "KPIs", "Monitorización", "Gestión de cambios", "Documentación"]
+    }
+  ],
+  "experiencia": {
+    "titulo": "Responsabilidades principales",
+    "items": [
+      {
+        "periodo": "Actualidad",
+        "puesto": "Coordinador del Departamento de Redes",
+        "empresa": "Empresa / Organización",
+        "descripcion": "Coordinación diaria del equipo, seguimiento de KPIs, priorización de incidencias y control de cambios en infraestructuras LAN, WAN, Wi-Fi y seguridad perimetral."
+      },
+      {
+        "periodo": "Anterior",
+        "puesto": "Administrador de Redes",
+        "empresa": "Empresa / Organización",
+        "descripcion": "Configuración, mantenimiento y troubleshooting de switching, routing, firewalls, VPNs y monitorización centralizada en entornos multisede."
+      },
+      {
+        "periodo": "Base técnica",
+        "puesto": "Técnico de Sistemas y Comunicaciones",
+        "empresa": "Empresa / Organización",
+        "descripcion": "Soporte avanzado, documentación técnica, inventario de activos, escalado de incidencias y colaboración con proveedores tecnológicos."
+      }
+    ]
+  },
+  "proyectos": {
+    "titulo": "Casos destacados",
+    "intro": "Selección de iniciativas técnicas, operativas y de mejora continua. Añade aquí nuevos proyectos conforme los vayas completando.",
+    "items": [
+      {
+        "titulo": "Renovación de red corporativa",
+        "periodo": "2026",
+        "estado": "Completado",
+        "descripcion": "Migración de switching core y acceso, segmentación VLAN, mejora de redundancia y reducción de ventanas de indisponibilidad.",
+        "tecnologias": ["Switching", "VLAN", "Alta disponibilidad"],
+        "imagen": ""
+      },
+      {
+        "titulo": "Monitorización y observabilidad",
+        "periodo": "2026",
+        "estado": "En evolución",
+        "descripcion": "Definición de alertas, mapas de servicio y cuadros de mando para anticipar degradaciones antes de que impacten al usuario final.",
+        "tecnologias": ["NMS", "Alerting", "KPIs"],
+        "imagen": ""
+      },
+      {
+        "titulo": "Normalización de cambios",
+        "periodo": "2025",
+        "estado": "Completado",
+        "descripcion": "Procedimientos de cambio, rollback, documentación técnica y coordinación con soporte, seguridad y proveedores externos.",
+        "tecnologias": ["ITIL", "Documentación", "Change management"],
+        "imagen": ""
+      }
+    ]
+  },
+  "certificaciones": {
+    "titulo": "Conocimiento certificado",
+    "items": [
+      {
+        "nombre": "CCNA Routing & Switching",
+        "entidad": "Cisco",
+        "anio": "2026",
+        "estado": "En vigor",
+        "url": ""
+      },
+      {
+        "nombre": "ITIL Foundation",
+        "entidad": "Axelos",
+        "anio": "2025",
+        "estado": "En vigor",
+        "url": ""
+      },
+      {
+        "nombre": "Fortinet NSE",
+        "entidad": "Fortinet",
+        "anio": "2025",
+        "estado": "En vigor",
+        "url": ""
+      },
+      {
+        "nombre": "Microsoft Azure Fundamentals",
+        "entidad": "Microsoft",
+        "anio": "2024",
+        "estado": "En vigor",
+        "url": ""
+      },
+      {
+        "nombre": "Cybersecurity Essentials",
+        "entidad": "Cisco Networking Academy",
+        "anio": "2024",
+        "estado": "Completado",
+        "url": ""
+      }
+    ]
+  },
+  "formacion": {
+    "titulo": "Base académica y técnica",
+    "items": [
+      {
+        "titulo": "Ingeniería / Grado en Telecomunicaciones",
+        "centro": "Centro educativo",
+        "periodo": "Año inicio - Año fin",
+        "descripcion": "Especialización en redes, comunicaciones y servicios de infraestructura."
+      },
+      {
+        "titulo": "Formación continua",
+        "centro": "Cursos y laboratorios técnicos",
+        "periodo": "Actualidad",
+        "descripcion": "Routing, switching, firewalls, gestión ITSM, automatización básica y seguridad de red."
+      }
+    ]
+  },
+  "cv": {
+    "titulo": "Currículum orientado a roles de coordinación IT, redes e infraestructura.",
+    "archivo": "assets/cv/cv.pdf",
+    "textoBoton": "Descargar CV"
+  },
+  "contacto": {
+    "titulo": "Hablemos de redes, continuidad operativa y mejora de infraestructura.",
+    "email": "nombre.apellido@email.com",
+    "telefono": "+34 000 000 000",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/"
+  }
+}
