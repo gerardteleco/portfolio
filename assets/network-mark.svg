@@ -1,0 +1,17 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="640" rx="36" fill="#0B1F33"/>
+  <path d="M112 168H528M112 320H528M112 472H528" stroke="#9AA4B2" stroke-width="2" stroke-linecap="round" opacity=".22"/>
+  <path d="M168 112V528M320 112V528M472 112V528" stroke="#9AA4B2" stroke-width="2" stroke-linecap="round" opacity=".18"/>
+  <circle cx="168" cy="168" r="18" fill="#7ED6A7"/>
+  <circle cx="472" cy="168" r="18" fill="#F8FAFC"/>
+  <circle cx="320" cy="320" r="24" fill="#7ED6A7"/>
+  <circle cx="168" cy="472" r="18" fill="#F8FAFC"/>
+  <circle cx="472" cy="472" r="18" fill="#7ED6A7"/>
+  <path d="M186 168H454M472 186L338 302M302 338L186 454M338 338L454 454M186 472H454" stroke="#7ED6A7" stroke-width="8" stroke-linecap="round" opacity=".82"/>
+  <circle cx="168" cy="168" r="52" stroke="#7ED6A7" stroke-width="2" opacity=".35"/>
+  <circle cx="472" cy="168" r="52" stroke="#F8FAFC" stroke-width="2" opacity=".18"/>
+  <circle cx="320" cy="320" r="74" stroke="#7ED6A7" stroke-width="2" opacity=".28"/>
+  <circle cx="168" cy="472" r="52" stroke="#F8FAFC" stroke-width="2" opacity=".18"/>
+  <circle cx="472" cy="472" r="52" stroke="#7ED6A7" stroke-width="2" opacity=".35"/>
+  <path d="M88 88H552V552H88V88Z" stroke="#F8FAFC" stroke-width="2" opacity=".1"/>
+</svg>
